@@ -1,0 +1,6 @@
+id=magisk-blur-enabler
+name=Magisk DRM Disabler (MDD)
+version=v1
+versionCode=1
+author=linckandrea
+description=A Magisk Module to enable blur on android 11.
